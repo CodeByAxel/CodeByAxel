@@ -6,7 +6,7 @@
 <h1 align="Center">hola soy Axel Ortiz  
 apasionado del desarrollo full-stack y entusiasta de la ciberseguridad y el hacking ético.<h1/>
 
-
+<br/>
 <div align="Center">
 
 <p>
@@ -32,7 +32,6 @@ apasionado del desarrollo full-stack y entusiasta de la ciberseguridad y el hack
 
 
 </p>
-
 </div>
 
 
