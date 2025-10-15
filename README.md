@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/b78e03a1-f3f4-47b9-83c0-37a12eeef470">
 </div>
 
-<h1 align="Center">Hi 👋, I'm Axel Ortiz  
+<h1 align="Center">hola soy Axel Ortiz  
 Apasionado del desarrollo full-stack y entusiasta de la ciberseguridad y el hacking ético.<h1/>
 
 
