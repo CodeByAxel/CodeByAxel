@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="Center">Hi 👋, I'm Axel Ortiz  
-A passionate Full Stack Developer & Cybersecurity Enthusiast<h1/>
+Apasionado del desarrollo full-stack y entusiasta de la ciberseguridad y el hacking ético.<h1/>
 
 
 <div align="Center">
@@ -31,8 +31,6 @@ A passionate Full Stack Developer & Cybersecurity Enthusiast<h1/>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
-
-  <br />
 
 </p>
 
