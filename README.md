@@ -8,7 +8,6 @@ apasionado del desarrollo full-stack y entusiasta de la ciberseguridad y el hack
 
 
 <div align="Center">
-**Languages and Tools:**
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
