@@ -4,7 +4,8 @@
 <div align="center">
 
 <a href="https://github.com/CodebyAxel">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+<img src="![g119ewgm4mm71](https://github.com/user-attachments/assets/6e7d8d12-7611-4fe6-a853-92bb0594568d)
+" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
