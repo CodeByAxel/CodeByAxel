@@ -4,8 +4,8 @@
 <div align="center">
 
 <a href="https://github.com/CodebyAxel">
-<img src="https://github.com/user-attachments/assets/6e78d012-7611-4fe6-a853-92bb0594568d" width="100%" alt="Banner de Axel" />
-</a>
+<img src="https://github.com/user-attachments/assets/b78e03a1-f3f4-47b9-83c0-37a12eeef470
+">
 
 [![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
 [![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
